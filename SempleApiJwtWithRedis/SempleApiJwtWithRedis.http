@@ -1,0 +1,6 @@
+@SempleApiJwtWithRedis_HostAddress = http://localhost:5058
+
+GET {{SempleApiJwtWithRedis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
